@@ -66,6 +66,7 @@ fetch("./menus.json")
           position: "right",
           style: {
             background: "#000090",
+            fontSize: "14px",
           },
         }).showToast();
       });
@@ -106,6 +107,7 @@ const eliminarDelCarrito = (menuId) => {
     position: "left",
     style: {
       background: "red",
+      fontSize: "14px",
     },
   }).showToast();
 
