@@ -110,7 +110,7 @@
     },
     {
         "id":19,
-        "nombre":"Sundae frutilla.png",
+        "nombre":"Sundae frutilla",
         "precio": 350,
         "imagen": "./img/sundaefrutilla.png" 
     },
