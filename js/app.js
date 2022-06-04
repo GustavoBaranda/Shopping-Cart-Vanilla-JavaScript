@@ -113,7 +113,7 @@ const eliminarDelCarrito = (menuId) => {
 
 //Mostrar y agregar items dentro del carrito y actulizacion de localStorage 
 const actualizarCarrito = () => {
-  contenedorCarrito.innerHTML +=""; 
+  contenedorCarrito.innerHTML =""; 
   
   carrito.forEach((menu) => {
     const etiqueta = document.createElement('tr');
