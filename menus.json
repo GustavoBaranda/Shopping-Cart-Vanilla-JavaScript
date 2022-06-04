@@ -1,0 +1,131 @@
+
+[
+    {
+        "id":1,
+        "nombre":"Big mac",
+        "precio": 860,
+        "imagen": "./img/bigMac.png" 
+    },
+    {
+        "id":2,
+        "nombre":"McFiesta",
+        "precio": 630,
+        "imagen": "./img/mcfiesta.png" 
+    },
+    {
+        "id":3,
+        "nombre":"McDuo",
+        "precio": 550,
+        "imagen": "./img/mcDuo.png" 
+    },
+    {
+        "id":4,
+        "nombre":"Cuarto de libra con queso",
+        "precio": 880,
+        "imagen": "./img/cuartoDeLibra.png" 
+    },
+    {
+        "id":5,
+        "nombre":"Doble Cuarto de libra con queso",
+        "precio": 1040,
+        "imagen": "./img/dobleCuartoDeLibra.png" 
+    },
+    {
+        "id":6,
+        "nombre":"McNifica",
+        "precio": 880,
+        "imagen": "./img/mcNifica.png" 
+    },
+    {
+        "id":7,
+        "nombre":"Triple Hamburguesa con queso",
+        "precio": 1030,
+        "imagen": "./img/tripleHamburguesaConQueso.png" 
+    },
+    {
+        "id":8,
+        "nombre":"Hamburguesa Con Queso",
+        "precio": 350,
+        "imagen": "./img/hamburguesaConQueso.png" 
+    },
+    {
+        "id":9,
+        "nombre":"McPollo",
+        "precio": 580,
+        "imagen": "./img/mcPollo.png" 
+    },
+    {
+        "id":10,
+        "nombre":"Papas con cheddar & bacon",
+        "precio": 510,
+        "imagen": "./img/papasconCheddar&Bacon.png" 
+    },
+    {
+        "id":11,
+        "nombre":"Side salad.png",
+        "precio": 450,
+        "imagen": "./img/sideSalad.png" 
+    },
+    {
+        "id":12,
+        "nombre":"Coca cola 500ml",
+        "precio": 450,
+        "imagen": "./img/cocaCola.png" 
+    },
+    {
+        "id":13,
+        "nombre":"fanta 500ml",
+        "precio": 450,
+        "imagen": "./img/fanta.png" 
+    },
+    {
+        "id":14,
+        "nombre":"jugo de manzana Cepita 500ml",
+        "precio": 350,
+        "imagen": "./img/jugoDeManzana.png" 
+    },
+    {
+        "id":15,
+        "nombre":"Agua sin gas 500ml",
+        "precio": 580,
+        "imagen": "./img/aguaSinGas500ml.png" 
+    },
+    {
+        "id":16,
+        "nombre":"Cerveza Patagonia Amber 750ml",
+        "precio": 650,
+        "imagen": "./img/patagoniaAmber.png" 
+    },
+    {
+        "id":17,
+        "nombre":"Cerveza Patagonia Kune 750ml",
+        "precio": 650,
+        "imagen": "./img/patagoniaKune.png" 
+    },
+    {
+        "id":18,
+        "nombre":"Cerveza Patagonia Weisse 750ml",
+        "precio": 650,
+        "imagen": "./img/patagoniaWeisse.png" 
+    },
+    {
+        "id":19,
+        "nombre":"Sundae frutilla.png",
+        "precio": 350,
+        "imagen": "./img/sundaefrutilla.png" 
+    },
+    {
+        "id":20,
+        "nombre":"McFlurry Oreo",
+        "precio": 580,
+        "imagen": "./img/mcFlurryOreo.png" 
+    }
+]
+
+
+
+
+
+
+
+
