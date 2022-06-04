@@ -117,7 +117,7 @@ const actualizarCarrito = () => {
   
   carrito.forEach((menu) => {
     const etiqueta = document.createElement('tr');
-    etiqueta.innerHTML =`
+    etiqueta.innerHTML +=`
       <td class="imagenCarrito"><img src="${menu.imagen}" width="60px"></td>
       <td class="nombreCarrito">${menu.nombre}</td>
       <td class="precioCarrito">$ ${menu.precio}</td>
