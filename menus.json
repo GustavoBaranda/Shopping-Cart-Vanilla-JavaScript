@@ -62,7 +62,7 @@
     },
     {
         "id":11,
-        "nombre":"Side salad.png",
+        "nombre":"Side salad",
         "precio": 450,
         "imagen": "./img/sideSalad.png" 
     },
@@ -110,7 +110,7 @@
     },
     {
         "id":19,
-        "nombre":"Sundae frutilla.png",
+        "nombre":"Sundae frutilla",
         "precio": 350,
         "imagen": "./img/sundaefrutilla.png" 
     },
