@@ -62,7 +62,7 @@
     },
     {
         "id":11,
-        "nombre":"Side salad.png",
+        "nombre":"Side salad",
         "precio": 450,
         "imagen": "./img/sideSalad.png" 
     },
